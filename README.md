@@ -31,8 +31,8 @@ Tenemos una historia... un poco rara. Un personaje muy particular está haciendo
 Abre tu terminal y escribe:
 
 ```bash
-git clone 
-# (Cambia tu_usuario por el nombre de usuario del facilitador si es el repositorio central)
+git clone https://github.com/danielcardenasparra/Dojo-Git-Jidoka-Colaboracion.git
+# (este es el repo creado por el Sensei)
 ```
 
 
@@ -43,11 +43,11 @@ git clone
 
 ```bash
 git checkout -b feature/tu-nombre
-# (Ej: feature/ninja-git o feature/el-maestro-del-orden)
+# (Ej: feature/ninja-git o feature/el-maestro-del-mal)
 ```
 
 #### **Paso 3: ¡Dale Rienda Suelta a la Imaginación en historia.md!**
-Abre el archivo historia.md (sí, el que está justo aquí). Verás esto:
+Abre el archivo historia.md . Verás esto:
 
 ```markdown
 
