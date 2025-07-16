@@ -31,7 +31,7 @@ Tenemos una historia... un poco rara. Un personaje muy particular está haciendo
 Abre tu terminal y escribe:
 
 ```bash
-git clone https://github.com/danielcardenasparra/Dojo-Git-Jidoka-Colaboracion.git
+git clone https://github.com/danielcardenasparra/DojoJidoka-Colaboracion.git
 # (este es el repo creado por el Sensei)
 ```
 
