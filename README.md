@@ -52,14 +52,23 @@ Abre el archivo historia.md . Verás esto:
 ```markdown
 
 En un rincón olvidado del universo, donde los bytes bailan salsa, nuestro enigmático personaje **[PERSONAJE_MISTERIOSO]** estaba **[ACCION_ABSURDA]** mientras buscaba el sentido de la vida... o al menos, la última versión del café.
-Tu tarea es:
 
 ```
-Reemplaza [PERSONAJE_MISTERIOSO] por el nombre más disparatado que se te ocurra (ej. "El Llama-Cebollas", "La Ardilla Espacial", "Don Comillas Locas").
 
-Reemplaza [ACCION_ABSURDA] por algo totalmente ridículo que esté haciendo (ej. "ordenando calcetines con la mente", "dando serenatas a una tostadora", "calculando la velocidad de la luz con un tenedor").
+---
 
-¡Guarda los cambios! ¡No te olvides de guardar!
+## 🎯 Tu tarea es:
+
+1.  **Reemplaza:** [PERSONAJE_MISTERIOSO] por el nombre más disparatado que se te ocurra (ej. "El Llama-Cebollas", "La Ardilla Espacial", "Don Comillas Locas").
+2.  **Reemplaza:** [ACCION_ABSURDA] por algo totalmente ridículo que esté haciendo (ej. "ordenando calcetines con la mente", "dando serenatas a una tostadora", "calculando la velocidad de la luz con un tenedor").
+3.  **¡Guarda los cambios! ¡No te olvides de guardar!**
+
+---
+
+
+
+
+
 
 #### **Paso 4: ¡Sube tus Cambios! (Add, Commit, Push)**
 
